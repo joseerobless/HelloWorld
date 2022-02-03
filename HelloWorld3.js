@@ -2,7 +2,7 @@ const React = require('react');
 const ReactDOM = require('react-dom');
 
 const HelloWorld = () => {
-  return Hello World;
+  return 'Hello World';
 };
 
 ReactDOM.render(
